@@ -347,7 +347,7 @@ body.dark .icon-moon {
 .hero-bg {
     position: absolute;
     inset: 0;
-    background: url("WhatsApp Image 2026-03-26 at 8.39.34 PM.jpeg") center/cover no-repeat;
+    background: url("https://img.sanishtech.com/u/83054d1d86edbcb9a9edf05621fb5bd1.jpeg") center/cover no-repeat;
     transform: scale(1.05);
     animation: heroZoom 20s ease-in-out infinite alternate;
 }
